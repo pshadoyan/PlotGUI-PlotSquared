@@ -1,0 +1,10 @@
+name: PlotGui
+version: 1.0
+author: [Paddy_Wagon]
+main: me.patrick.plotgui.Creative
+commands:
+   plotgui:
+      description: View GuildCraft's PlotGui menu
+      usage: /plotgui
+      permission: GCPlot.view
+      permission-message: You don't have permission!
