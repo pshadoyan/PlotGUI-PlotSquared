@@ -4,7 +4,7 @@ author: [Paddy_Wagon]
 main: me.patrick.plotgui.Creative
 commands:
    plotgui:
-      description: View GuildCraft's PlotGui menu
+      description: View the PlotGui menu
       usage: /plotgui
       permission: GCPlot.view
       permission-message: You don't have permission!
