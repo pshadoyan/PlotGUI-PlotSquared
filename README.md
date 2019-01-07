@@ -1,7 +1,5 @@
 # PlotGUI-PlotSquared
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/PaddyWagon/PlotGUI-PlotSquared) [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://github.com/PaddyWagon/PlotGUI-PlotSquared)
-
-I am not the original creator of this, I've just had to complete a massive overhaul and decided to post for public use. 
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/PaddyWagon/PlotGUI-PlotSquared) [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://github.com/PaddyWagon/PlotGUI-PlotSquared) 
 
 A simple plugin to add a GUI to make PlotSquared more user-friendly.
 
